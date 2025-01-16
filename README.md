@@ -5,7 +5,7 @@ The virtual internship offered by Accenture through the Forage platform has been
 ## Internship Overview
 
 As part of the Data Analytics & Visualization Job Simulation (Jan 2025), I had the opportunity to act as a Data Analyst for **Social Buzz**, a rapidly growing unicorn in the tech industry. Social Buzz is navigating exciting yet challenging times, including preparing for an IPO (Initial Public Offering) while managing a massive influx of unstructured data, processing over 100,000 posts daily.
-
+[**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZmMyN2JkMDItMDYyMS00NTFlLTk4MTMtZWYwYTRkYTgyODE4IiwidCI6IjcxOGFlNWQ0LWU4MmEtNDQ1ZC1hZGI1LTY3NDg2ZjEwNmRhNyJ9)
 ## Challenges Addressed
 
 - **Preparing for an IPO by next year**: Developing strategies to ensure a smooth and successful transition to public trading.
