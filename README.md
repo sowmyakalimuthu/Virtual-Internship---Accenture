@@ -24,7 +24,7 @@ As part of the Data Analytics & Visualization Job Simulation (Jan 2025), I had t
 - Leveraged tools like **Excel** and **PowerBI** for data cleaning and data modeling process.
 - Designed a comprehensive **PowerPoint deck** and created a **video presentation** to communicate findings effectively to the client and internal stakeholders.
 
-## My Key Learnings
+## Learnings
 
 - Discovered my passion for **cleaning, modeling, and analyzing client data**.
 - Gained hands-on experience with **data analytics**, **visualization**, and **client communication**.
