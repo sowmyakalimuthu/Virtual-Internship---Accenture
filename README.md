@@ -24,7 +24,7 @@ As part of the Data Analytics & Visualization Job Simulation (Jan 2025), I had t
 
 - Cleaned, modeled, and analyzed **7 datasets** to uncover insights into content trends and user engagement.
 - Leveraged tools like **Excel** and **PowerBI** for data cleaning and data modeling process.
-- Designed a comprehensive [**PowerPoint deck**](https://github.com/sowmyakalimuthu/Virtual-Internship---Accenture/social buzz.pdf) and created a **video presentation** to communicate findings effectively to the client and internal stakeholders.
+- Designed a comprehensive [**PowerPoint deck**](https://github.com/sowmyakalimuthu/Virtual-Internship---Accenture/blob/main/social%20buzz.pdf) and created a **video presentation** to communicate findings effectively to the client and internal stakeholders.
 
 ## Learnings
 
